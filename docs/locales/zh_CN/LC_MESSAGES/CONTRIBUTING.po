@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, xinetzone
+# This file is distributed under the same license as the sphinx demo
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx demo \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-11 16:33+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../../CONTRIBUTING:1
+msgid "Contributing"
+msgstr "贡献"
+
+#: ../../../CONTRIBUTING:3
+msgid ""
+"Hi there! We're thrilled that you'd like to contribute to this project. "
+"Your help is essential for keeping it great."
+msgstr "大家好! 我们很高兴你愿意为这个项目作出贡献。你的帮助对于保持它的伟大是必不可少的。"
+
+#: ../../../CONTRIBUTING:5
+msgid ""
+"Contributions to this project are "
+"[released](https://help.github.com/articles/github-terms-of-service/#6"
+"-contributions-under-repository-license) to the public under the "
+"project's open source license."
+msgstr ""
+"对这个项目的贡献是根据项目的开放源码许可证向公众 [发布](https://help.github.com/articles/github-"
+"terms-of-service/#6-contributions-under-repository-license)。"
+
+#: ../../../CONTRIBUTING:7
+msgid ""
+"Please note that this project is released with a [Contributor Code of "
+"Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree "
+"to abide by its terms."
+msgstr "请注意，本项目发布时有一个 [贡献者行为准则](CODE_OF_CONDUCT.md)。参与本项目，默认你同意遵守其条款。"
+
+#: ../../../CONTRIBUTING:9
+msgid "Submitting a pull request"
+msgstr "提交拉取请求"
+
+#: ../../../CONTRIBUTING:11
+msgid "Fork and clone the repository"
+msgstr "分叉并克隆仓库"
+
+#: ../../../CONTRIBUTING:12
+msgid "Configure and install the dependencies: `script/bootstrap`"
+msgstr "配置并安装依赖项：`script/bootstrap`"
+
+#: ../../../CONTRIBUTING:13
+msgid "Make sure the tests pass on your machine: `script/cibuild`"
+msgstr ""
+
+#: ../../../CONTRIBUTING:14
+msgid "Create a new branch: `git checkout -b my-branch-name`"
+msgstr ""
+
+#: ../../../CONTRIBUTING:15
+msgid "Make your change, add tests, and make sure the tests still pass"
+msgstr ""
+
+#: ../../../CONTRIBUTING:16
+msgid "Push to your fork and submit a pull request"
+msgstr ""
+
+#: ../../../CONTRIBUTING:17
+msgid ""
+"Pat your self on the back and wait for your pull request to be reviewed "
+"and merged."
+msgstr ""
+
+#: ../../../CONTRIBUTING:19
+msgid ""
+"Here are a few things you can do that will increase the likelihood of "
+"your pull request being accepted:"
+msgstr ""
+
+#: ../../../CONTRIBUTING:21
+msgid "Follow standards for style and code quality"
+msgstr ""
+
+#: ../../../CONTRIBUTING:22
+msgid "Write tests."
+msgstr ""
+
+#: ../../../CONTRIBUTING:23
+msgid ""
+"Keep your change as focused as possible. If there are multiple changes "
+"you would like to make that are not dependent upon each other, consider "
+"submitting them as separate pull requests."
+msgstr ""
+
+#: ../../../CONTRIBUTING:24
+msgid ""
+"Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-"
+"about-git-commit-messages.html)."
+msgstr ""
+
+#: ../../../CONTRIBUTING:26
+msgid "Resources"
+msgstr "资源"
+
+#: ../../../CONTRIBUTING:28
+msgid ""
+"[How to Contribute to Open Source](https://opensource.guide/how-to-"
+"contribute/)"
+msgstr ""
+"[如何为开源做贡献](https://opensource.guide/how-to-contribute/)"
+
+#: ../../../CONTRIBUTING:29
+msgid ""
+"[Using Pull Requests](https://help.github.com/articles/about-pull-"
+"requests/)"
+msgstr ""
+"[使用拉取请求](https://help.github.com/articles/about-pull-requests/)"
+
+#: ../../../CONTRIBUTING:30
+msgid "[GitHub Help](https://help.github.com)"
+msgstr "[GitHub 帮助](https://help.github.com)"
+
