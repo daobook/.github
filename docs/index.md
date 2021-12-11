@@ -6,10 +6,11 @@
 
 CODE_OF_CONDUCT
 CONTRIBUTING
+SECURITY
 ```
 
 # Indices and tables
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* {ref}`genindex`
+* {ref}`modindex`
+* {ref}`search`

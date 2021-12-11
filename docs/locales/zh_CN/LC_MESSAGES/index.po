@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sphinx demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-11 16:17+0800\n"
+"POT-Creation-Date: 2021-12-11 17:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,19 +22,28 @@ msgstr ""
 msgid "Welcome to sphinx demo's documentation!"
 msgstr ""
 
-#: ../../index.md:11
+#: ../../index.md:12
 msgid "Indices and tables"
 msgstr ""
 
-#: ../../index.md:13
-msgid ":ref:`genindex`"
-msgstr ""
-
 #: ../../index.md:14
-msgid ":ref:`modindex`"
+msgid "{ref}`genindex`"
 msgstr ""
 
 #: ../../index.md:15
-msgid ":ref:`search`"
+msgid "{ref}`modindex`"
 msgstr ""
+
+#: ../../index.md:16
+msgid "{ref}`search`"
+msgstr ""
+
+#~ msgid ":ref:`genindex`"
+#~ msgstr ""
+
+#~ msgid ":ref:`modindex`"
+#~ msgstr ""
+
+#~ msgid ":ref:`search`"
+#~ msgstr ""
 
