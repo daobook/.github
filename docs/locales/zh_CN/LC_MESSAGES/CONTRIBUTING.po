@@ -59,39 +59,41 @@ msgstr "配置并安装依赖项：`script/bootstrap`"
 
 #: ../../../CONTRIBUTING:13
 msgid "Make sure the tests pass on your machine: `script/cibuild`"
-msgstr ""
+msgstr "确保在你的机器上通过测试： `script/cibuild`"
 
 #: ../../../CONTRIBUTING:14
 msgid "Create a new branch: `git checkout -b my-branch-name`"
-msgstr ""
+msgstr "创建一个新的分支：`git checkout -b my-branch-name`。"
 
 #: ../../../CONTRIBUTING:15
 msgid "Make your change, add tests, and make sure the tests still pass"
-msgstr ""
+msgstr "进行修改，添加测试，并确保测试仍然通过。"
 
 #: ../../../CONTRIBUTING:16
 msgid "Push to your fork and submit a pull request"
-msgstr ""
+msgstr "推送到你的分叉中并提交拉取请求"
 
 #: ../../../CONTRIBUTING:17
 msgid ""
 "Pat your self on the back and wait for your pull request to be reviewed "
 "and merged."
 msgstr ""
+"放松一下，等待你的拉取请求被审查和合并。"
 
 #: ../../../CONTRIBUTING:19
 msgid ""
 "Here are a few things you can do that will increase the likelihood of "
 "your pull request being accepted:"
 msgstr ""
+"以下是你可以做的几件事，这将增加你的拉取请求被接受的可能性："
 
 #: ../../../CONTRIBUTING:21
 msgid "Follow standards for style and code quality"
-msgstr ""
+msgstr "遵循风格和代码质量的标准"
 
 #: ../../../CONTRIBUTING:22
 msgid "Write tests."
-msgstr ""
+msgstr "编写测试"
 
 #: ../../../CONTRIBUTING:23
 msgid ""
@@ -99,12 +101,15 @@ msgid ""
 "you would like to make that are not dependent upon each other, consider "
 "submitting them as separate pull requests."
 msgstr ""
+"使你的变更尽可能地集中。"
+"如果你想做多个不相互依赖的改动，可以考虑将它们作为单独的拉动请求提交。"
 
 #: ../../../CONTRIBUTING:24
 msgid ""
 "Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-"
 "about-git-commit-messages.html)."
 msgstr ""
+"写一个 [好的提交信息](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)。"
 
 #: ../../../CONTRIBUTING:26
 msgid "Resources"

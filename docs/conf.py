@@ -34,6 +34,16 @@ extensions = [
     'myst_parser'
 ]
 
+myst_enable_extensions = [
+    "html_admonition",
+    "html_image",
+    "linkify",
+    # "replacements",
+    "smartquotes",
+    # "substitution",
+    # "tasklist",
+]
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
