@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sphinx demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-11 17:25+0800\n"
+"POT-Creation-Date: 2021-12-12 10:28+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,21 +20,25 @@ msgstr ""
 
 #: ../../index.md:1
 msgid "Welcome to sphinx demo's documentation!"
-msgstr ""
+msgstr "欢迎阅读 sphinx demo 文档"
 
-#: ../../index.md:12
-msgid "Indices and tables"
-msgstr ""
+#: ../../index.md:3
+msgid "Daobook's community health document."
+msgstr "Daobook 的社区健康文件。"
 
 #: ../../index.md:14
+msgid "Indices and tables"
+msgstr "索引和表格"
+
+#: ../../index.md:16
 msgid "{ref}`genindex`"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:17
 msgid "{ref}`modindex`"
 msgstr ""
 
-#: ../../index.md:16
+#: ../../index.md:18
 msgid "{ref}`search`"
 msgstr ""
 
