@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../../CODE_OF_CONDUCT.md:1
 msgid "Contributor Covenant Code of Conduct"
-msgstr "贡献者公约"
+msgstr "行为准则"
 
 #: ../../../CODE_OF_CONDUCT.md:3
 msgid "Our Pledge"

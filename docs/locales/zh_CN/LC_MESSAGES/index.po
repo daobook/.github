@@ -23,8 +23,8 @@ msgid "Welcome to sphinx demo's documentation!"
 msgstr "欢迎阅读 sphinx demo 文档"
 
 #: ../../index.md:3
-msgid "Daobook's community health document."
-msgstr "Daobook 的社区健康文件。"
+msgid "Documentation for Healthy Communities."
+msgstr "健康社区的文档。"
 
 #: ../../index.md:14
 msgid "Indices and tables"

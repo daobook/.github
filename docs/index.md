@@ -1,6 +1,6 @@
 # Welcome to sphinx demo's documentation!
 
-Daobook's community health document.
+Documentation for Healthy Communities.
 
 ```{toctree}
 :maxdepth: 2
