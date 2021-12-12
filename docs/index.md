@@ -2,6 +2,8 @@
 
 Documentation for Healthy Communities.
 
+To speed up project development, please use the project template [sphinx-demo](https://github.com/xinetzone/sphinx-demo).
+
 ```{toctree}
 :maxdepth: 2
 :hidden:
