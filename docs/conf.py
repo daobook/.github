@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx demo'
+project = 'Daobook demo'
 copyright = '2021, xinetzone'
 author = 'xinetzone'
 

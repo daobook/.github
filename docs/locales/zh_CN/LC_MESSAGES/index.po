@@ -19,8 +19,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../index.md:1
-msgid "Welcome to sphinx demo's documentation!"
-msgstr "欢迎阅读 sphinx demo 文档"
+msgid "Welcome to Daobook demo's documentation!"
+msgstr "欢迎阅读 Daobook demo 文档"
 
 #: ../../index.md:3
 msgid "Documentation for Healthy Communities."

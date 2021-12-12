@@ -1,4 +1,4 @@
-# Welcome to sphinx demo's documentation!
+# Welcome to Daobook demo's documentation!
 
 Documentation for Healthy Communities.
 
