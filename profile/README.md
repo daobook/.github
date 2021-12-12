@@ -8,16 +8,12 @@ Daobook focuses on including quality projects and making their documentation as 
 
 ## 🌈 Contribution guidelines
 
-how can the community get involved?
+see [Contributor Covenant Code of Conduct](https://daobook.github.io/.github/CONTRIBUTING.html).
 
 ## 👩‍💻 Useful resources
  
-where can the community find your docs? Is there anything else the community should know?
- 
-## 🍿 Fun facts
-
-what does your team eat for breakfast?
+As much of the community documentation as possible can be found on the [Daobook Home](https://daobook.github.io/), where you can find everything you need about the community.
  
 ## 🧙 Remember
  
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+The community uses Sphinx to generate project documentation and sphinx-intl to generate internationalized documentation.
