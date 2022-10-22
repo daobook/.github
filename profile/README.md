@@ -26,3 +26,12 @@ The community uses Sphinx to generate project documentation and sphinx-intl to g
 <a href="https://daobook.github.io/jupyter-book-zh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=jupyter-book-zh" />
 </a>
+<a href="https://daobook.github.io/plotly-book">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=plotly-book" />
+</a>
+<a href="https://daobook.github.io/apollo-book">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=apollo-book" />
+</a>
+<a href="https://daobook.github.io/pytorch-book">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=pytorch-book" />
+</a>
