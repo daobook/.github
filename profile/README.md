@@ -18,7 +18,7 @@ As much of the community documentation as possible can be found on the [Daobook 
  
 The community uses Sphinx to generate project documentation and sphinx-intl to generate internationalized documentation.
 
-## Quality projects created
+## projects
 
 <a href="https://daobook.github.io/dash-book">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=dash-book" />
