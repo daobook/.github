@@ -20,6 +20,10 @@ The community uses Sphinx to generate project documentation and sphinx-intl to g
 
 ## projects
 
+<a href="https://daobook.github.io/pybook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=pybook" />
+</a>
+
 <a href="https://daobook.github.io/dash-book">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=daobook&repo=dash-book" />
 </a>
